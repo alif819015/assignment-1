@@ -1,6 +1,6 @@
 /* Header Section */
 .header {
-    background-image: url('/images/banner/banner3.png');
+    background-image: url('../images/banner/banner3.png');
     width: auto;
     height: 470px;
     background-repeat: no-repeat;
@@ -90,7 +90,7 @@
     width: 1000px;
     height: 250px;
     margin: 130px 150px 130px 160px;
-    background-image: url('/images/watch.png'), url('/images/gradient1.png');
+    background-image:  url('../images/watch.png'), url('../images/gradient1.png');
     background-size: cover;
     background-position: center;
     background-blend-mode: multiply;
